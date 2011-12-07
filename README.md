@@ -1,6 +1,17 @@
-Gridless -- A boilerplate for responsive, cross-browser websites
+grid{LESS} -- A responsive framework built off Gridless and LESS
 ================================================================
 
+WHAT IT IS
+-----------
+grid{LESS} combines the following popular tools:
+
+- [Gridless](http://thatcoolguy.github.com/gridless-boilerplate/): an optionated HTML5 and CSS3 boilerplate for making [mobile first](http://www.lukew.com/ff/entry.asp?933) [responsive](http://www.alistapart.com/articles/responsive-web-design), cross-browser websites with [beautiful typography](http://www.informationarchitects.jp/en/100e2r/).
+
+- [HelpLess](https://github.com/m6tt/HelpLess): a Helper Library for the brilliant LESS dynamic stylesheet language.
+
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate): I pull in a few things, such as jQuery failovers, from Paul Irish's H5BP
+
+The readme for Gridless, which the majority of this code is based off of, is below.
 
 DESCRIPTION
 -----------
